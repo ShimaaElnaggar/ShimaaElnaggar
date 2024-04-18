@@ -19,7 +19,7 @@
 
 ## 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)]([https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/))
 ### 🛠 &nbsp;Tech Stack
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=flat&logo=Dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=Flutter&logoColor=563D7C)&nbsp;

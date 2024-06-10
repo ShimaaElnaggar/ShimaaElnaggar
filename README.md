@@ -36,6 +36,7 @@
 
 ![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&hide_progress=true)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

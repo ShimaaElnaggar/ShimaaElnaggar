@@ -17,7 +17,7 @@
 <li>- 🌱 I’m currently learning state management.
 <li>- 🤔 My interest lies in  Flutter development.
 <li>- 💬 Ask me about anything, I love to answer!
-<li>- 📫 Email me at shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com).
+<li>- 📫 Email me at <strong>shimaaibrahim072@gmail.com</strong></li>.
 
 
 ## 🔗Contact Me

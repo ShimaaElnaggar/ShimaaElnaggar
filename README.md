@@ -12,12 +12,12 @@
 
 
 <h3>🚀 About Me</h3> 
-- 👨🏽‍💻 I’m currently a CSE Recent Graduate.
-- 🌱 I’m currently exploring JAVA with a big interest in Data Structures and Algorithms. 
-- 🌱 I’m currently learning state management.
-- 🤔 My interest lies in  Flutter development.
-- 💬 Ask me about anything, I love to answer!
-- 📫 Email me at shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com).
+<li>- 👨🏽‍💻 I’m currently a CSE Recent Graduate.
+<li>- 🌱 I’m currently exploring JAVA with a big interest in Data Structures and Algorithms. 
+<li>- 🌱 I’m currently learning state management.
+<li>- 🤔 My interest lies in  Flutter development.
+<li>- 💬 Ask me about anything, I love to answer!
+<li>- 📫 Email me at shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com).
 
 
 ## 🔗Contact Me

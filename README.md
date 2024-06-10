@@ -17,8 +17,6 @@
 <h3>🚀 About Me</h3> 
 <h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer. I enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm Student and Still learning. </h4>
 
-![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&hide=contribs,prs)
-
 ## 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/)]([https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/](https://www.linkedin.com/in/shimaa-elnaggar-80b3021b2/))
@@ -35,6 +33,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&hide=contribs,prs)
 
 <!-- ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

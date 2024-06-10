@@ -17,7 +17,7 @@
 <h3>🚀 About Me</h3> 
 <h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer. I enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm Student and Still learning. </h4>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&hide=contribs,prs)
 
 ## 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)

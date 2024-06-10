@@ -33,8 +33,8 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&hide=contribs,prs)
+
+![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&show_icons=true&theme=radical)
 
 <!-- ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

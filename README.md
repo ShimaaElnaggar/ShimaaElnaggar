@@ -12,13 +12,14 @@
 
 
 <h3>🚀 About Me</h3> 
+  <ul>
 <li>- 👨🏽‍💻 I’m currently a CSE Recent Graduate.
 <li>- 🌱 I’m currently exploring JAVA with a big interest in Data Structures and Algorithms. 
 <li>- 🌱 I’m currently learning state management.
 <li>- 🤔 My interest lies in  Flutter development.
 <li>- 💬 Ask me about anything, I love to answer!
 <li>- 📫 Email me at <strong>shimaaibrahim072@gmail.com</strong></li>.
-
+ </ul>
 
 ## 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)

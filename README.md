@@ -12,7 +12,7 @@
 
 <br/>
 <a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 <h3>🚀 About Me</h3> 
 <h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer. I enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm Student and Still learning. </h4>

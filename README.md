@@ -10,12 +10,15 @@
 <!-- # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Mayar, Welcome To My Github Profile ♥  -->
 <!-- <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
-<br/>
-<a target="_blank" align="center">
-  <img align="right" top="300" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
 <h3>🚀 About Me</h3> 
-<h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer. I enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm Student and Still learning. </h4>
+- 👨🏽‍💻 I’m currently a CSE Recent Graduate.
+- 🌱 I’m currently exploring JAVA with a big interest in Data Structures and Algorithms. 
+- 🌱 I’m currently learning state management.
+- 🤔 My interest lies in  Flutter development.
+- 💬 Ask me about anything, I love to answer!
+- 📫 Email me at shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com).
+
 
 ## 🔗Contact Me
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shimaaibrahim072@gmail.com)](mailto:shimaaibrahim072@gmail.com)
@@ -33,10 +36,6 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=007ACC)&nbsp;
 ![postman](https://img.shields.io/badge/-postman-05122A?style=flat&logo=postman&logoColor=007ACC)&nbsp;
 
-
-![shimaaelnaggar's GitHub stats](https://github-readme-stats.vercel.app/api?username=shimaaelnaggar&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shimaaelnaggar&hide_progress=true)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- ### Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmrSayed74&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

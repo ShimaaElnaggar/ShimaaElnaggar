@@ -29,7 +29,9 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
-![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java)&nbsp;
+![Java](https://img.shields.io/badges-io/:type/:java))&nbsp;
+
+
 
 
 <!-- ### 🔗 Links

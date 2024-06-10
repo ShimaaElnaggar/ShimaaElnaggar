@@ -13,7 +13,7 @@
 <br/>
 <img align="right" src="https://media4.giphy.com/media/9D7JJAsoOxH1vajS6b/giphy.gif?cid=ecf05e479xot6euzlldn776kf4doyupwku41m7z30uyifi4s&ep=v1_gifs_related&rid=giphy.gif&ct=g" alt="Coder GIF" width="190" height="340">
 <h3>🚀 About Me</h3> 
-<h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer.I really enjoy learning Programming languages and frameworks.  I also enjoy Implementing of designs. For This Moment I'm Student and Still learning. </h4>
+<h4> Recent Graduate | Al-Azhar University - Systems and Computers Department. I'm a Mobile Application Flutter Developer. I enjoy learning Programming languages and frameworks.  I also enjoy Implementing designs. For This Moment I'm Student and Still learning. </h4>
 
 
 
@@ -29,6 +29,7 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java%20-05122A?style=flat&logo=java)&nbsp;
 
 
 <!-- ### 🔗 Links

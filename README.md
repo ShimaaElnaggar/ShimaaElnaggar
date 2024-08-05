@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+Mobile+Application+Flutter+Developer" style="color:black" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Flutter+Developer" style="color:black" />
 </p>
 </h1>
 

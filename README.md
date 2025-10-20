@@ -5,9 +5,9 @@
 
 <h3>🚀 About Me</h3> 
   <ul>
-<ol> 👋 Hi, I’m Shimaa Elnaggar, a passionate Flutter Developer who loves building scalable and beautiful mobile apps using Flutter, Dart, and Firebase.</ol>
+<ol> 👋 Hi, I’m Shimaa Elnaggar, a passionate Flutter Developer who loves building scalable mobile apps using Flutter and Firebase.</ol>
 <ol> 🌟 I focus on writing clean, maintainable code and applying modern architectures like BLoC and MVVM.</ol>
-<ol> 💼 I’ve also completed a 6-month Web Development training at ITI, which enhanced my understanding of UI, UX, and frontend development principles.</ol>
+<ol> 💼 I’ve also completed a 6-month Web Development training at ITI, which enhanced my understanding frontend development principles.</ol>
 <ol> 🚀 I’m currently working on real-world Flutter projects and improving my portfolio to publish my first app on the Play Store.</ol>
 <ol> 📫 Reach me at: <a href="shimaaibrahim072@gmail.com">shimaaibrahim072@gmail.com</a></ol>
  </ul>

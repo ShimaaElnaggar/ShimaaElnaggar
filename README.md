@@ -1,23 +1,20 @@
-<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> Welcome to Shimaa Elnaggar's profile! 
+<h1 align="center"> <!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px"> --> My Name is Shimaa, Welcome To My Github Profile ♥
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=+Flutter Developer | Firebase | Clean Architecture" style="color:black" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=+Flutter Developer +| Firebase +| Clean Architecture" style="color:black" />
 </p>
 </h1>
-
-< # Hello! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> My Name is Mayar, Welcome To My Github Profile ♥  -->
-< <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=1000px height=95px> -->
 
 
 <h3>🚀 About Me</h3> 
   <ul>
-<li>- 👋 Hi, I’m Shimaa Elnaggar, a passionate Flutter Developer who loves building scalable and beautiful mobile apps using Flutter, Dart, and Firebase.
-<li>- 🌟 I focus on writing clean, maintainable code and applying modern architectures like BLoC and MVVM.
-<li>- 💼 I’ve also completed a 6-month Web Development training at ITI, which enhanced my understanding of UI, UX, and frontend development principles
-<li>- 🚀 I’m currently working on real-world Flutter projects and improving my portfolio to publish my first app on the Play Store.
-<li>- 📫 Reach me at: <strong><a>shimaaibrahim072@gmail.com</a></strong></li>
+<li> 👋 Hi, I’m Shimaa Elnaggar, a passionate Flutter Developer who loves building scalable and beautiful mobile apps using Flutter, Dart, and Firebase.
+<li> 🌟 I focus on writing clean, maintainable code and applying modern architectures like BLoC and MVVM.
+<li> 💼 I’ve also completed a 6-month Web Development training at ITI, which enhanced my understanding of UI, UX, and frontend development principles
+<li> 🚀 I’m currently working on real-world Flutter projects and improving my portfolio to publish my first app on the Play Store.
+<li> 📫 Reach me at: <strong><a>shimaaibrahim072@gmail.com</a></strong></li>
  </ul>
 
 ## 🔗Contact Me
